@@ -32,7 +32,7 @@ Aqui obtive vários conhecimentos novos, como:
 * Um pouco mais sobre design responsivo e CSS.
 
 ### Sobre o app
-É um aplicativo para você salvar links de vídeos, onde pode colar o link de um vídeo, atribuí-lo um nome, dar like, editar e excluir. O código e a UI foi feita inteiramente em inglês, buscando melhorar meu conhecimento na linguagem.
+É um aplicativo para você salvar links de vídeos, onde pode colar o link de um vídeo, atribuí-lo um nome, dar like, editar e excluir.
 
 **Homepage:**
 
